@@ -10,4 +10,8 @@ int main()
 
     printf("The Area of the Rectangle is %d", l*b);
     return 0;
+
+
+
+    
 }
