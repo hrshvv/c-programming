@@ -8,6 +8,6 @@ int main()
     printf("Enter Height of the Cylinder");
     scanf("%d", &h);
 
-    printf("Area of the Cylinder with %d is %f", r, 3.14*r*r*h);
+    printf("Volume of the Cylinder with %d is %f", r, 3.14*r*r*h);
     return 0;
 }
