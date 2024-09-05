@@ -9,9 +9,5 @@ int main()
     scanf("%d", &b);
 
     printf("The Area of the Rectangle is %d", l*b);
-    return 0;
-
-
-
-    
+    return 0;    
 }
